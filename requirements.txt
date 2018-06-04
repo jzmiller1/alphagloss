@@ -1,1 +1,1 @@
-pyperclip>=1.5.25
+pyperclip==1.5.25
